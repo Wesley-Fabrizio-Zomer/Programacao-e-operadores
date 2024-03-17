@@ -1,4 +1,4 @@
 2) S = (D v A ^ C) v ~(B v C)= V
 3) S = ~(A v B)= F
-4) S = ~(A ^ B)= F
+4) S = ~(A ^ B)= V
 5) S = C v ~B ^ (A v ~D)= V
